@@ -1,1 +1,1 @@
-URL Shortener Project - With User Authentication and Auth
+URL Shortener Project - With User Authentication and Author
